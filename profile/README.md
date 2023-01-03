@@ -4,8 +4,8 @@
 
 <br/>
 <div align="center">
-    <a href="https://ko-fi.com/notscrappie" target="_blank">
-      <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=for-the-badge&logo=ko-fi"/>
+    <a href="https://buymeacoffee.com/scr3ppie" target="_blank">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
     </a>
 </div> 
 
